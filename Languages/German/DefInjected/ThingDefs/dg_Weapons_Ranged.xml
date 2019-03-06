@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+   <3dg_Sling.label>Schleuder</3dg_Sling.label>
+   <3dg_Sling.description>Eine einfache Waffe bestehend aus einer Lederschlaufe, in der ein Stein gewirbelt und durch die Luft geschossen werden.</3dg_Sling.description>
+   <3DG_StaffSling.label>Stabschlinge</3DG_StaffSling.label>
+   <3DG_StaffSling.description>Eine einfache Waffe, die aus einer Schleuder besteht, die an einem Stab angebracht worden ist. Beruhend auf der Erkenntnis der Hebelwirkung.</3DG_StaffSling.description>
+   <3DG_LightCrossbow.label>Leichte Armbrust</3DG_LightCrossbow.label>
+   <3DG_LightCrossbow.description>Eine einfache Armbrust. Entworfen um den Nachladeprozess zu beschleunigen. Recht handlich und klein.</3DG_LightCrossbow.description>
+   <3DG_HeavyCrossbow.label>Schwere Armbrust</3DG_HeavyCrossbow.label>
+   <3DG_HeavyCrossbow.description>Eine große Armbrust. F&#252;r den Krieg konstruiert worden. Ladet durch ihr hohes Gewicht langsamer, verursacht aber mehr Schaden durch ihre Durchschlagskraft.</3DG_HeavyCrossbow.description>
+   <3DG_RepeatingCrossbow.label>Repetierarmbrust</3DG_RepeatingCrossbow.label>
+   <3DG_RepeatingCrossbow.description>Eine leichte Armbrust mit Munitionsbeh&#228;lter. Konstruiert worden um in schneller Reihenfolge tödliche Bolzen zu verschie&#223;en.</3DG_RepeatingCrossbow.description>
+</LanguageData>
