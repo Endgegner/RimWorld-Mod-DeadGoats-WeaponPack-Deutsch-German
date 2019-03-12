@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+   <dgBlowgun.label>Blasrohr</dgBlowgun.label>
+   <dgBlowgun.description>Ein hohles Rohr um kleine Pfeile durch komprimierte Luft zu verschie&#223;den. Wird f&#252;r gew&#246;hnlich &#252;ber den Mund bedient.</dgBlowgun.description>
+   <dgBlowgunSolanine.label>Blasrohr Nachtschatten</dgBlowgunSolanine.label>
+   <dgBlowgunSolanine.description>Ein Blasrohr mit in Solanin getauchten Giftdarts. Ein starkes Gift von Nachtschattengew&#228;chsen.</dgBlowgunSolanine.description>
+   <3dg_blowgun_neurotoxin.label>Blasrohr Neurotoxin</3dg_blowgun_neurotoxin.label>
+   <3dg_blowgun_neurotoxin.description>Ein Blasrohr mit in Neurotoxin getauchten Giftdarts. Wirkt direkt auf die Nervenzentren.</3dg_blowgun_neurotoxin.description>
+</LanguageData>

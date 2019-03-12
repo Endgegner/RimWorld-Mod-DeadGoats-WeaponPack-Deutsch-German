@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+   <3dg_MeleeWeapon_Hatchet.label>Beil</3dg_MeleeWeapon_Hatchet.label>
+   <3dg_MeleeWeapon_Hatchet.description>Eine kleine Axt. Leicht und handlich im Umgang.</3dg_MeleeWeapon_Hatchet.description>
+   <3dg_MeleeWeapon_Battleaxe.label>Beserker Axt</3dg_MeleeWeapon_Battleaxe.label>
+   <3dg_MeleeWeapon_Battleaxe.description>Eine wuchtige Axt, die in der Regel verwendet wird um Sch&#228;del zu spalten. Sie hat einen zus&#228;tzlichen Dorn auf der R&#252;ckseite um auch in R&#252;stungen einzudringen.</3dg_MeleeWeapon_Battleaxe.description>
+   <3dg_MeleeWeapon_Waraxe.label>Kriegsaxt</3dg_MeleeWeapon_Waraxe.label>
+   <3dg_MeleeWeapon_Waraxe.description>Eine m&#228;chtige Axt, die am besten wild geschwungen auf einem Schlachtfeld zur vollen Geltung kommt.</3dg_MeleeWeapon_Waraxe.description>
+   <3dg_MeleeWeapon_Cleaver.label>Hackbeil</3dg_MeleeWeapon_Cleaver.label>
+   <3dg_MeleeWeapon_Cleaver.description>Eine breite Klinge auf einem Holzschaft, die besonders gern von Metzgern f&#252;r das Teilen von z&#228;hem Fleisch verwendet wird.</3dg_MeleeWeapon_Cleaver.description>
+   <3dg_MeleeWeapon_Scythe.label>Sense</3dg_MeleeWeapon_Scythe.label>
+   <3dg_MeleeWeapon_Scythe.description>Ein Werkzeug zum M&#228;hen von Getreide und Gras. Die lange gebogene Klinge wird an einem hohen Stab gef&#252;hrt.</3dg_MeleeWeapon_Scythe.description>
+   <3dg_MeleeWeapon_Claw.label>Klauen</3dg_MeleeWeapon_Claw.label>
+   <3dg_MeleeWeapon_Claw.description>Ein Handschuh mit 3 scharfen Klingen, die an der R&#252;ckseite befestigt sind.</3dg_MeleeWeapon_Claw.description>
+   <3dg_MeleeWeapon_Knuckles.label>Schlagring</3dg_MeleeWeapon_Knuckles.label>
+   <3dg_MeleeWeapon_Knuckles.description>Verleiht den Hieben des Tr&#228;gers durch sein Eigengewicht ungeheure St&#228;rke. Simpel und gut zu verstecken.</3dg_MeleeWeapon_Knuckles.description>
+   <3dg_MeleeWeapon_Rapier.label>Rapier</3dg_MeleeWeapon_Rapier.label>
+   <3dg_MeleeWeapon_Rapier.description>Ein leichtes, d&#252;nnes und sehr spitzes Schwert. Es erlaubt eine h&#246;here Wendikeit und kann mit einem einzigen gut gef&#252;hrten Sto&#223; t&#246;ten.</3dg_MeleeWeapon_Rapier.description>
+   <3dg_MeleeWeapon_Warhammer.label>Kriegshammer</3dg_MeleeWeapon_Warhammer.label>
+   <3dg_MeleeWeapon_Warhammer.description>Eine brutale Waffe, die f&#252;r den Nahkampf erdacht wurde und spielend leicht Knochen zertr&#252;mmert.</3dg_MeleeWeapon_Warhammer.description>
+   <3dg_MeleeWeapon_Scepter.label>Szepter</3dg_MeleeWeapon_Scepter.label>
+   <3dg_MeleeWeapon_Scepter.description>Ein kleiner verzierter Stab, der oft in einer umklammerten Kugel endet und von Herrschern bei zeremoniellen Anl&#228;ssen als Symbol der Souver&#228;nit&#228;t getragen wurde.</3dg_MeleeWeapon_Scepter.description>
+   <3dg_MeleeWeapon_Staff.label>Stab</3dg_MeleeWeapon_Staff.label>
+   <3dg_MeleeWeapon_Staff.description>Eine langer solider Stab, den man recht effektiv als Waffe nutzen kann.</3dg_MeleeWeapon_Staff.description>
+   <3dg_MeleeWeapon_Skullclub.label>Sch&#228;delkeule</3dg_MeleeWeapon_Skullclub.label>
+   <3dg_MeleeWeapon_Skullclub.description>Eine dicke Keule zum Zerschmettern seiner Feinde. Am Kopfst&#252;ck des Schaftes wird in der Regel ein gro&#223;er Sch&#228;del befestigt.</3dg_MeleeWeapon_Skullclub.description>
+   <3dg_MeleeWeapon_Macuahuitl.label>Bastardschwert</3dg_MeleeWeapon_Macuahuitl.label>
+   <3dg_MeleeWeapon_Macuahuitl.description>Ein besonders breitgeformtes Schwert um den Schl&#228;gen mehr Wucht zu verleihen.</3dg_MeleeWeapon_Macuahuitl.description>
+</LanguageData>
